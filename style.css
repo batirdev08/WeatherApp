@@ -129,6 +129,7 @@ img{
 }
 .details:last-child{
     border-left: 2px solid #fcfcfc;
+    padding-left: 2px;
 }
 i{
     position: relative;
