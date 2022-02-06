@@ -129,7 +129,6 @@ img{
 }
 .details:last-child{
     border-left: 2px solid #fcfcfc;
-    padding-left: 2px;
 }
 i{
     position: relative;
@@ -188,5 +187,8 @@ i{
   }
   .weather{
       height: 200px;
+  }
+  .details:last-child{
+      padding-left: 2px;
   }
 }
